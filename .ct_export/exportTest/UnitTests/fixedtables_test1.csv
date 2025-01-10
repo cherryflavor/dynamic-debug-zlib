@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:fixedtables_test1,""
+,<input>,<expect>,<output>,<toutput>
+1,"",,,

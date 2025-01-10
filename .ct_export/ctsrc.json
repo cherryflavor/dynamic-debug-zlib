@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Default Module",
+    "language": 0,
+    "linkFlag": "",
+    "compileFlag": "",
+    "toolchainName": "${TOOLCHAIN_NAME}",
+    "sourceTopDir": "D:\\git_repo\\zlib-AutoDebugging\\",
+    "src": [
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\adler32.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\compress.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\crc32.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\deflate.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\gzclose.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\gzlib.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\gzread.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\gzwrite.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\infback.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\inffast.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\inflate.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\inftrees.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\trees.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\uncompr.c",
+        "compileFlag": ""
+      },
+      {
+        "path": "D:\\git_repo\\zlib-AutoDebugging\\zutil.c",
+        "compileFlag": ""
+      }
+    ]
+  }
+]

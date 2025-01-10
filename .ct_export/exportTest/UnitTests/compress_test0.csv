@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:compress_test0,""
+,<input>,dest_mem[0],destLen_mem[0],source_mem[0],sourceLen,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","1","4294967295","0","1",,"0",,"0",,""
+2,"","0","1","255","0",,"-5",,"-5",,""
+3,"","255","0","1","4294967295",,"-5",,"-5",,""

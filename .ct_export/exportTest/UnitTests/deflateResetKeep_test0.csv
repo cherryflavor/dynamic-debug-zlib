@@ -1,0 +1,8 @@
+CT(Controller Tester) Test Data
+test name:deflateResetKeep_test0,""
+,<input>,strm_mem0_state0_pending_buf_mem[0],strm_mem[0].state[0].wrap,strm_mem[0].total_out,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","255","1","1",,"-2",,"-2",,""
+2,"","1","0","4294967295",,"-2",,"-2",,""
+3,"","1","-1","0",,"-2",,"-2",,""
+4,"","0","-2147483648","0",,"-2",,"-2",,""
+5,"","0","2147483647","1",,"-2",,"-2",,""

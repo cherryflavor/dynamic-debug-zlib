@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:gzopen_w_test0,""
+,<input>,mode,path_mem[0],<expect>,<output>,<toutput>
+1,""," ","1",,,
+2,""," ","0",,,
+3,""," ","65535",,,

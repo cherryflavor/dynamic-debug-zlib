@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:get_crc_table_test0,""
+,<input>,<expect>,returnVar[0],<output>,returnVar[0],<toutput>,returnVar[0]
+1,"",,"0",,"0",,""

@@ -1,0 +1,17 @@
+,Old Path,New Path,status,
+1,C:\CT\src\ut,,
+2,D:\git_repo\zlib-AutoDebugging\adler32.c,,This project contains source files. Do not enter new path If you import with source files.
+3,D:\git_repo\zlib-AutoDebugging\compress.c,,This project contains source files. Do not enter new path If you import with source files.
+4,D:\git_repo\zlib-AutoDebugging\crc32.c,,This project contains source files. Do not enter new path If you import with source files.
+5,D:\git_repo\zlib-AutoDebugging\deflate.c,,This project contains source files. Do not enter new path If you import with source files.
+6,D:\git_repo\zlib-AutoDebugging\gzclose.c,,This project contains source files. Do not enter new path If you import with source files.
+7,D:\git_repo\zlib-AutoDebugging\gzlib.c,,This project contains source files. Do not enter new path If you import with source files.
+8,D:\git_repo\zlib-AutoDebugging\gzread.c,,This project contains source files. Do not enter new path If you import with source files.
+9,D:\git_repo\zlib-AutoDebugging\gzwrite.c,,This project contains source files. Do not enter new path If you import with source files.
+10,D:\git_repo\zlib-AutoDebugging\infback.c,,This project contains source files. Do not enter new path If you import with source files.
+11,D:\git_repo\zlib-AutoDebugging\inffast.c,,This project contains source files. Do not enter new path If you import with source files.
+12,D:\git_repo\zlib-AutoDebugging\inflate.c,,This project contains source files. Do not enter new path If you import with source files.
+13,D:\git_repo\zlib-AutoDebugging\inftrees.c,,This project contains source files. Do not enter new path If you import with source files.
+14,D:\git_repo\zlib-AutoDebugging\trees.c,,This project contains source files. Do not enter new path If you import with source files.
+15,D:\git_repo\zlib-AutoDebugging\uncompr.c,,This project contains source files. Do not enter new path If you import with source files.
+16,D:\git_repo\zlib-AutoDebugging\zutil.c,,This project contains source files. Do not enter new path If you import with source files.

@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:inflateMark_test0,""
+,<input>,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"",,"-65536",,"-65536",,""

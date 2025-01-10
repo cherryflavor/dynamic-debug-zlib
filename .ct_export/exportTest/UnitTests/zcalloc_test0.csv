@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:zcalloc_test0,""
+,<input>,items,size,<expect>,<output>,<toutput>
+1,"","4294967295","1",,,
+2,"","1","0",,,
+3,"","0","4294967295",,,

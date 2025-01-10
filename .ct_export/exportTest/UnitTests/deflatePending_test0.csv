@@ -1,0 +1,8 @@
+CT(Controller Tester) Test Data
+test name:deflatePending_test0,""
+,<input>,bits_mem[0],pending_mem[0],strm_mem[0].state[0].bi_valid,strm_mem[0].state[0].pending,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","0","1","1","0",,"0",,"0",,""
+2,"","-2147483648","0","2147483647","0",,"0",,"0",,""
+3,"","1","4294967295","-2147483648","1",,"0",,"0",,""
+4,"","2147483647","0","0","4294967295",,"0",,"0",,""
+5,"","-1","1","-1","1",,"0",,"0",,""

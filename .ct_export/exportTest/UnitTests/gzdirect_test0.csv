@@ -1,0 +1,3 @@
+CT(Controller Tester) Test Data
+test name:gzdirect_test0,""
+,<input>,file[0].have,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar

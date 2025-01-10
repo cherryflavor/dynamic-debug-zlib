@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:gzgetc__test0,""
+,<input>,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"",,"-1",,"-1",,""

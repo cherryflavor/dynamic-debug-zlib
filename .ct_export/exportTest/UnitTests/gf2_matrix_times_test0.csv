@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:gf2_matrix_times_test0,""
+,<input>,mat_mem[0],vec,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","4294967295","1",,"4294967295",,"4294967295",,""
+3,"","2","2",,"0",,"0",,""
+4,"","0","0",,"0",,"0",,""

@@ -1,0 +1,8 @@
+CT(Controller Tester) Test Data
+test name:inflateUndermine_test0,""
+,<input>,subvert,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","0",,"-2",,"-2",,""
+2,"","2147483647",,"-2",,"-2",,""
+3,"","1",,"-2",,"-2",,""
+4,"","-2147483648",,"-2",,"-2",,""
+5,"","-1",,"-2",,"-2",,""

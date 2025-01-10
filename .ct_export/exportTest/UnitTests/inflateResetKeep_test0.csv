@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:inflateResetKeep_test0,""
+,<input>,strm_mem[0].total_out,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","0",,"-2",,"-2",,""
+2,"","1",,"-2",,"-2",,""
+3,"","4294967295",,"-2",,"-2",,""

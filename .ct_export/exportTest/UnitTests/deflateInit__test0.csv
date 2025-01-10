@@ -1,0 +1,8 @@
+CT(Controller Tester) Test Data
+test name:deflateInit__test0,""
+,<input>,level,stream_size,version,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","0","2147483647"," ",,"-6",,"-6",,""
+2,"","-1","0"," ",,"-6",,"-6",,""
+3,"","-2147483648","-2147483648"," ",,"-6",,"-6",,""
+4,"","1","-1"," ",,"-6",,"-6",,""
+5,"","2147483647","1"," ",,"-6",,"-6",,""

@@ -1,0 +1,8 @@
+CT(Controller Tester) Test Data
+test name:zError_test0,""
+,<input>,err,<expect>,returnVar[0],<output>,returnVar[0],<toutput>,returnVar[0]
+1,"","2147483647",,"102",,"102",,""
+2,"","1",,"115",,"115",,""
+3,"","-1",,"102",,"102",,""
+4,"","0",,"0",,"0",,""
+5,"","-2147483648",,"0",,"0",,""

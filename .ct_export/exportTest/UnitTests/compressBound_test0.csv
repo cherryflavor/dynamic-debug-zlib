@@ -1,0 +1,6 @@
+CT(Controller Tester) Test Data
+test name:compressBound_test0,""
+,<input>,sourceLen,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
+1,"","4294967295",,"1310857",,"1310857",,""
+2,"","1",,"14",,"14",,""
+3,"","0",,"13",,"13",,""

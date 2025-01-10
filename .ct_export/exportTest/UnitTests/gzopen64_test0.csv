@@ -1,0 +1,4 @@
+CT(Controller Tester) Test Data
+test name:gzopen64_test0,""
+,<input>,mode,path,<expect>,<output>,<toutput>
+1,""," "," ",,,
