@@ -395,7 +395,7 @@ local uLong crc32_combine_(crc1, crc2, len2)
 
         /* another iteration of the loop with odd and even swapped */
         gf2_matrix_square(odd, even);
-        if (len2 & 1)
+        if (len2 & 0)
             crc1 = gf2_matrix_times(odd, crc1);
         len2 >>= 1;
 

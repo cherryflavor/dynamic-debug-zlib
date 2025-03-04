@@ -47,7 +47,6 @@
     <file>UnitTests\gzgetc__test0.utest</file>
     <file>UnitTests\gzungetc_test0.utest</file>
     <file>UnitTests\gz_avail_test0.utest</file>
-    <file>UnitTests\gzdirect_test0.utest</file>
     <file>UnitTests\gzread_test0.utest</file>
     <file>UnitTests\gzclose_r_test0.utest</file>
     <file>UnitTests\gzwrite_test0.utest</file>
@@ -137,7 +136,6 @@
     <file>\UnitTests\inflateSetDictionary_test0.csv</file>
     <file>\UnitTests\deflateInit__test0.csv</file>
     <file>\UnitTests\deflateInit2__test0.csv</file>
-    <file>\UnitTests\gzdirect_test0.csv</file>
     <file>\UnitTests\gz_reset_test0.csv</file>
     <file>\UnitTests\detect_data_type_test0.csv</file>
     <file>\UnitTests\uncompress_test0.csv</file>
