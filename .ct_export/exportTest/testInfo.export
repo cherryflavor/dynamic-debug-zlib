@@ -1,9 +1,6 @@
 <com.codescroll.ut.importexport.testInfo.ExportSetInformation>
   <integrationTestFiles/>
   <unitTestFiles>
-    <file>UnitTests\adler32_combine__test0.utest</file>
-    <file>UnitTests\adler32_combine64_test0.utest</file>
-    <file>UnitTests\adler32_combine_test0.utest</file>
     <file>UnitTests\compressBound_test0.utest</file>
     <file>UnitTests\compress2_test0.utest</file>
     <file>UnitTests\compress_test0.utest</file>
@@ -121,7 +118,6 @@
     <file>\UnitTests\gzopen_test0.csv</file>
     <file>\UnitTests\deflateSetHeader_test0.csv</file>
     <file>\UnitTests\inflateMark_test0.csv</file>
-    <file>\UnitTests\adler32_combine64_test0.csv</file>
     <file>\UnitTests\inflateInit__test0.csv</file>
     <file>\UnitTests\crc32_combine__test0.csv</file>
     <file>\UnitTests\deflateTune_test0.csv</file>
@@ -167,7 +163,6 @@
     <file>\UnitTests\inflateBack_test0.csv</file>
     <file>\UnitTests\gzopen64_test0.csv</file>
     <file>\UnitTests\inflateCopy_test0.csv</file>
-    <file>\UnitTests\adler32_combine_test0.csv</file>
     <file>\UnitTests\gzputs_test0.csv</file>
     <file>\UnitTests\gzrewind_test0.csv</file>
     <file>\UnitTests\gzwrite_test0.csv</file>
@@ -177,7 +172,6 @@
     <file>\UnitTests\zlibCompileFlags_test0.csv</file>
     <file>\UnitTests\inflateBackInit__test0.csv</file>
     <file>\UnitTests\zlibVersion_test0.csv</file>
-    <file>\UnitTests\adler32_combine__test0.csv</file>
     <file>\UnitTests\inflateSyncPoint_test0.csv</file>
     <file>\UnitTests\gzsetparams_test0.csv</file>
   </testDataFiles>
