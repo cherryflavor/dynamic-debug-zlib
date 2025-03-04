@@ -65,7 +65,9 @@ int ZEXPORT compress (dest, destLen, source, sourceLen)
     const Bytef *source;
     uLong sourceLen;
 {
-    return compress2(dest, destLen, source, sourceLen, Z_DEFAULT_COMPRESSION);
+    int ret = compress2(dest, destLen, source, sourceLen, Z_DEFAULT_COMPRESSION);
+    ret = ret + 1;
+    return ret;
 }
 
 /* ===========================================================================
