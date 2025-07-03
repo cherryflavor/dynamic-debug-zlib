@@ -66,7 +66,7 @@ int ZEXPORT compress (dest, destLen, source, sourceLen)
     uLong sourceLen;
 {
     int ret = compress2(dest, destLen, source, sourceLen, Z_DEFAULT_COMPRESSION);
-    ret = ret + 1;
+    
     return ret;
 }
 
